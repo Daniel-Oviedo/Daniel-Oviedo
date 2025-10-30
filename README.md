@@ -4,7 +4,7 @@
 
 ## Soy Ingeniero en Sistemas  
 
-- ⚔️ Actualmente trabajo con **Java, Spring Boot, Hibernate, MySQL, SQL Server**
+- ⚔️ Actualmente trabajo con **Java, Spring Boot, ORM's, MySQL, SQL Server**
 
 - 🌸 Estoy aprendiendo **JavaScript, CSS, Python, React y mejorando en desarrollo frontend**
 
