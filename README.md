@@ -8,11 +8,11 @@
 
 - 🌸 Estoy aprendiendo **JavaScript, CSS, Python, React y mejorando en desarrollo frontend**
 
-- 🐉 Tengo experiencia en **APIs RESTful, ORMs, Maven, Gradle y bases de datos relacionales**
+- 🐉 Desarrollo y consumo de APIs REST, gestión de dependencias con Maven y Gradle, y uso de bases de datos relacionales.
 
-- 🛠️ Uso herramientas como **Postman, Git, Linux, HeidiSQL, Notion**
+- 🛠️ Manejo de herramientas y entornos de trabajo como **Postman, Git, HeidiSQL, XAMPP**
 
-- 🚀 Me interesa el **desarrollo full-stack y las aplicaciones escalables**
+- 🚀 Interés en el desarrollo full-stack, la creación de aplicaciones escalables y la aplicación de buenas prácticas de programación.
 
 - 📫 Puedes contactarme en **danielovi18@hotmail.com**
 
