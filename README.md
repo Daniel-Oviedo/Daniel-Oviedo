@@ -4,17 +4,17 @@
 
 ## Soy Ingeniero en Sistemas  
 
-- ⚔️ Actualmente trabajo con **Java, Spring Boot, ORM's, MySQL, SQL Server**
+-  Actualmente trabajo con **Java, Spring Boot, ORM's, MySQL, SQL Server**
 
-- 🌸 Estoy aprendiendo **JavaScript, CSS, Python, React y mejorando en desarrollo frontend**
+-  Estoy aprendiendo **JavaScript, CSS, Python, React y mejorando en desarrollo frontend**
 
-- 🐉 Desarrollo y consumo de APIs REST, gestión de dependencias con Maven y Gradle, y uso de bases de datos relacionales.
+-  Desarrollo y consumo de APIs REST, gestión de dependencias con Maven y Gradle, y uso de bases de datos relacionales.
 
-- 🛠️ Manejo de herramientas y entornos de trabajo como **Postman, Git, HeidiSQL, XAMPP**
+-  Manejo de herramientas y entornos de trabajo como **Postman, Git, HeidiSQL, XAMPP**
 
-- 🚀 Interés en el desarrollo full-stack, la creación de aplicaciones escalables y la aplicación de buenas prácticas de programación.
+-  Interés en el desarrollo full-stack, la creación de aplicaciones escalables y la aplicación de buenas prácticas de programación.
 
-- 📫 Puedes contactarme en **danielovi18@hotmail.com**
+-  Puedes contactarme en **danielovi18@hotmail.com**
 
 
 ---
