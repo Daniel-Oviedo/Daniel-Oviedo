@@ -29,8 +29,8 @@ MySQL · SQL Server · HeidiSQL
 **Herramientas:**  
 Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
 
-## 📫 Contacto
-📧 danielovi18@hotmail.com 
+## 📫 Contacto : 📧 danielovi18@hotmail.com 
+
 
 
 
