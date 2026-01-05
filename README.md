@@ -1,23 +1,37 @@
-# Hola, Soy Daniel Oviedo 🎌
+# Hola, soy Daniel Oviedo 👋
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+Ingeniero en Sistemas recién graduado, enfocado en el desarrollo de aplicaciones web con **Java y Spring Boot**. 
+Cuento con experiencia en proyectos académicos, personales y comunitarios, desarrollando **APIs REST**, 
+aplicaciones **full stack**, tiendas en línea y sistemas de gestión de información.
 
-## Soy Ingeniero en Sistemas  
+## 🧑‍💻 Perfil Profesional
 
--  Actualmente trabajo con **Java, Spring Boot, ORM's, MySQL, SQL Server**
+- Desarrollo backend con **Java, Spring Boot, JPA / Hibernate**
+- Creación y consumo de **APIs RESTful** (GET, POST, PUT, DELETE)
+- Desarrollo de **proyectos full stack**, incluyendo tiendas en línea
+- Implementación de **arquitectura MVC, multicapa y cliente-servidor**
+- Desarrollo de un **sistema de expedientes médicos**
+- Gestión de bases de datos relacionales con **MySQL y SQL Server**
+- Pruebas de endpoints y validación de respuestas con **Postman**
+- Control de versiones con **Git y GitHub**
 
--  Estoy aprendiendo **JavaScript, CSS, Python, React y mejorando en desarrollo frontend**
+## 🛠️ Tecnologías
 
--  Desarrollo y consumo de APIs REST, gestión de dependencias con Maven y Gradle, y uso de bases de datos relacionales.
+**Backend:**  
+Java · Spring Boot · JPA · Hibernate · APIs REST
 
--  Manejo de herramientas y entornos de trabajo como **Postman, Git, HeidiSQL, XAMPP**
+**Frontend:**  
+HTML · CSS · JavaScript
 
--  Interés en el desarrollo full-stack, la creación de aplicaciones escalables y la aplicación de buenas prácticas de programación.
+**Bases de datos:**  
+MySQL · SQL Server · HeidiSQL
 
--  Puedes contactarme en **danielovi18@hotmail.com**
+**Herramientas:**  
+Git · GitHub · Postman · Maven · Docker (básico) · Linux · XAMPP · Notion
 
+## 📫 Contacto
 
----
+📧 danielovi18@hotmail.com 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
