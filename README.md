@@ -27,7 +27,7 @@ HTML · CSS · JavaScript
 MySQL · SQL Server · HeidiSQL
 
 **Herramientas:**  
-Git · GitHub · Postman · Maven · Docker (básico) · Linux · XAMPP · Notion
+Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
 
 ## 📫 Contacto
 
