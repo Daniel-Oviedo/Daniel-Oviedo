@@ -10,7 +10,6 @@ aplicaciones **full stack**, tiendas en línea y sistemas de gestión de informa
 - Creación y consumo de **APIs RESTful** (GET, POST, PUT, DELETE)
 - Desarrollo de **proyectos full stack**, incluyendo tiendas en línea
 - Implementación de **arquitectura MVC, multicapa y cliente-servidor**
-- Desarrollo de un **sistema de expedientes médicos**
 - Gestión de bases de datos relacionales con **MySQL y SQL Server**
 - Pruebas de endpoints y validación de respuestas con **Postman**
 - Control de versiones con **Git y GitHub**
