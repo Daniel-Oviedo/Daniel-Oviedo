@@ -20,10 +20,10 @@ aplicaciones **full stack**, tiendas en línea y sistemas de gestión de informa
 Java · Spring Boot · JPA · Hibernate · APIs REST
 
 **Frontend:**  
-HTML · CSS · JavaScript
+HTML · CSS · JavaScript · React
 
 **Bases de datos:**  
-MySQL · SQL Server · HeidiSQL
+MySQL · SQL Server · HeidiSQL 
 
 **Herramientas:**  
 Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
