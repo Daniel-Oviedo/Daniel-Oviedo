@@ -4,7 +4,7 @@ Ingeniero en Sistemas recién graduado, enfocado en el desarrollo de aplicacione
 Cuento con experiencia en proyectos académicos, personales y comunitarios, desarrollando **APIs REST**, 
 aplicaciones **full stack**, tiendas en línea y sistemas de gestión de información.
 
-## 🧑‍💻 Perfil Profesional
+## Perfil Profesional
 
 - Desarrollo backend con **Java, Spring Boot, JPA / Hibernate**
 - Creación y consumo de **APIs RESTful** (GET, POST, PUT, DELETE)
