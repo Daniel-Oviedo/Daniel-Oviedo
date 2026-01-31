@@ -14,7 +14,7 @@ aplicaciones **full stack**, tiendas en línea y sistemas de gestión de informa
 - Pruebas de endpoints y validación de respuestas con **Postman**
 - Control de versiones con **Git y GitHub**
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Backend:**  
 Java · Spring Boot · JPA · Hibernate · APIs REST
