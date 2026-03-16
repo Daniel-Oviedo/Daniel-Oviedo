@@ -1,6 +1,6 @@
 # Hola, soy Daniel Oviedo 👋
 
-Ingeniero en Sistemas recién graduado, enfocado en el desarrollo de aplicaciones web con **Java y Spring Boot**. 
+Ingeniero en Sistemas, enfocado en el desarrollo de aplicaciones web con **Java y Spring Boot**. 
 Cuento con experiencia en proyectos académicos, personales y comunitarios, desarrollando **APIs REST**, 
 aplicaciones **full stack**, tiendas en línea y sistemas de gestión de información.
 
