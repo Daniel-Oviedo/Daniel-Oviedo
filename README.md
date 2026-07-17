@@ -17,7 +17,7 @@ aplicaciones **full stack**, tiendas en línea y sistemas de gestión de informa
 ## Tecnologías
 
 **Backend:**  
-Java · Spring Boot · JPA · Hibernate · APIs REST
+Java · Spring Boot · Python · JPA · Hibernate · APIs REST
 
 **Frontend:**  
 HTML · CSS · JavaScript · React
