@@ -23,7 +23,7 @@ Java · Spring Boot · Python · JPA · Hibernate · APIs REST · Node.js · Exp
 HTML · CSS · JavaScript · React
 
 **Bases de datos:**  
-MySQL · SQL Server · HeidiSQL 
+MySQL · SQL Server · HeidiSQL · NoSQL 
 
 **Herramientas:**  
 Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
