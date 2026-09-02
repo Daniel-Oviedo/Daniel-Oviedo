@@ -13,6 +13,7 @@ aplicaciones **full stack**, tiendas en línea y sistemas de gestión de informa
 - Gestión de bases de datos relacionales con **MySQL y SQL Server**
 - Pruebas de endpoints y validación de respuestas con **Postman**
 - Control de versiones con **Git y GitHub**
+- Explorando pipelines ETL con Python,APIs,Polars y DuckDB
 
 ## Tecnologías
 
@@ -23,7 +24,7 @@ Java · Spring Boot · Python · JPA · Hibernate · APIs REST · Node.js · Exp
 HTML · CSS · JavaScript · React
 
 **Bases de datos:**  
-MySQL · SQL Server · HeidiSQL · NoSQL 
+MySQL · SQL Server · HeidiSQL · NoSQL · Polars · DuckDB
 
 **Herramientas:**  
 Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
