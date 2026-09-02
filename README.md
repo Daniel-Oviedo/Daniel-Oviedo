@@ -40,13 +40,13 @@ Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías Que Conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías Que Conozco</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,git,linux,postman,html,css,js,python,idea,discord,maven,hibernate&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,express,mysql,postgresql,docker,git,github,linux,postman,html,css,js,python,idea,aws,notion,discord,maven&perline=11" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Git · GitHub · Postman · Maven · Docker · Linux · XAMPP · Notion
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate Conmigo🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conéctate Conmigo</h2></summary>
   </ul>
 </div>
 
