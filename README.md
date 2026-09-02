@@ -2,7 +2,7 @@
 
 Ingeniero en Sistemas, enfocado en el desarrollo de aplicaciones web con **Java y Spring Boot**. 
 Cuento con experiencia en proyectos académicos, personales y comunitarios, desarrollando **APIs REST**, 
-aplicaciones **full stack**, tiendas en línea y sistemas de gestión de información.
+aplicaciones **full stack**, tiendas en línea y sistemas de gestión de información. Actualmente ampliando el perfil hacia el análisis y procesamiento de datos 
 
 ## Perfil Profesional
 
